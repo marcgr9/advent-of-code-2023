@@ -7,4 +7,6 @@ fun main(args: Array<String>) {
     println("Hello, Advent of Code 2023!")
     println("Day 1, part 1: ${partOne()}")
     println("Day 1, part 2: ${partTwo()}")
+    println("Day 2, part 1: ${daytwo.partOne()}")
+    println("Day 2, part 2: ${daytwo.partTwo()}")
 }
