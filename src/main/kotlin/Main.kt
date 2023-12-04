@@ -14,4 +14,6 @@ fun main(args: Array<String>) {
         println("Day 3, part 1: ${it.first}")
         println("Day 3, part 2: ${it.second}")
     }
+    println("Day 4, part 1: ${dayfour.partOne()}")
+    println("Day 4, part 2: ${dayfour.partTwo()}")
 }
